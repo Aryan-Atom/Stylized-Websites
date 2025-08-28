@@ -17,6 +17,7 @@ body {
   grid-template-rows: 50% 50%;
   grid-template-columns: 50% 50%;
   color: #333;
+  background-color: #fffff7;
 }
 
 #elem1 {
